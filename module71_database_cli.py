@@ -2,11 +2,10 @@ import psycopg
 from psycopg.rows import dict_row
 
 host = "module-71.cm7gueik8hu4.us-east-1.rds.amazonaws.com"
-database = "practice_mode"
-username = "Jason"
-pwd = "Kingorion0301!"
-port_id = "5432"
-conn = None
+database = ""
+username = ""
+pwd = ""
+port_id = ""
 
 
 try:
