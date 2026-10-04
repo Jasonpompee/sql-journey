@@ -1,7 +1,7 @@
 import psycopg
 from psycopg.rows import dict_row
 
-host = "module-71.cm7gueik8hu4.us-east-1.rds.amazonaws.com"
+host = ""
 database = ""
 username = ""
 pwd = ""
